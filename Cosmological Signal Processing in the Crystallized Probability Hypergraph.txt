@@ -1,0 +1,72 @@
+Cosmological Signal Processing: The Universe as an Emergent ADC Hypergraph
+
+Author: Eric Steenwerth
+Date: April 22, 2026
+Version: 1.0.0
+
+Abstract
+
+Modern theoretical physics struggles to reconcile General Relativity and Quantum Mechanics because it attempts to unify emergent artifacts across different rendering scales. This paper proposes a unified ontological framework utilizing Information Theory, Signal Processing, and Systems Architecture. The framework posits that the universe is not a collection of fundamental particles operating in a void, but a discrete, n-dimensional relational hypergraph. This hypergraph is the localized, crystallized output of an infinite, unconstrained analog phase space. The fundamental constants of physics—specifically the speed of light ($c$) and the Planck constant ($h$)—are not arbitrary fine-tuned variables, but the absolute mathematical limits of algorithmic efficiency (the causal slew rate and quantization noise floor). Under this framework, gravity, time, and motion are emergent artifacts of decentralized computational graph-rewriting and thermodynamic optimization.
+
+1. The Foundation: The Unconstrained Analog Substrate
+
+Classical mechanics relies on "empty space" as a background stage. This framework discards that assumption in favor of a pre-geometric Analog Substrate.
+
+This substrate does not exist as a physical fluid or medium, as that would imply existing dimensional constraints. Rather, it is a Phase Space or Hilbert Space of infinite, unrendered mathematical potential (Heisenberg's Potentia).
+
+Because it is entirely unconstrained, it possesses no fundamental clock speed, no discrete relational edges, and no geometry.
+
+Without causal updates, it lacks an Arrow of Time.
+
+It is infinite analog noise—a field of pure statistical probability.
+
+2. The Universal Boot-Up: Instantaneous Nucleation
+
+The origin of the observable universe (the Big Bang) was not an explosion of matter, but a spontaneous thermodynamic phase transition. The mechanics of this event mirror the spontaneous nucleation of a supercooled (metastable) fluid.
+
+Within an infinite, timeless probability space, microscopic statistical fluctuations constantly arise and dissolve. Inevitably, one fluctuation achieves a critical radius where it becomes thermodynamically cheaper to grow than to dissolve.
+
+Because the analog substrate lacks a causal speed limit prior to this event, the initial phase transition does not propagate locally. It is an instantaneous, mathematically simultaneous global state change across the infinite phase space. The unconstrained potential violently collapses into a lower-energy, discrete relational grid.
+
+3. The Architecture of Space-Time: The ADC Hypergraph
+
+Space is the rendered geometry of this discrete relational grid. It functions as a decentralized, macro-scale Analog-to-Digital Converter (ADC). To extract usable, stable geometry from infinite analog noise, the system must establish two fundamental hardware limits:
+
+The Quantization Noise Floor ($h$): The Planck constant is the minimum threshold required to force an analog probability into a definitive binary state. It is the resolution limit of the hypergraph.
+
+The Causal Slew Rate ($c$): The speed of light is not a speed at which objects travel; it is the absolute maximum clock cycle of the hypergraph's rendering engine. It is the rate at which adjacent nodes can execute an IF/THEN state update.
+
+Time is strictly the irreversible progression of this computational sequence. It is the thermodynamic exhaust of the rendering process.
+
+4. The Tautology of Optimal Constants
+
+The Anthropic Principle suggests that $c$ and $h$ are uniquely tuned to allow for complex structures. This framework dictates that $c$ and $h$ are mathematical tautologies.
+
+The initial phase transition was a collapse seeking the Global Minimum energy state. $c$ and $h$ are not arbitrary values; they are the absolute limit of thermodynamic and algorithmic efficiency (the Shannon Limit) for a stable causal system. Any slower slew rate or larger noise floor would result in fatal computational drag; any faster rate would induce aliasing and paradox. The constants are the only mathematically possible geometry for a stable, localized reality.
+
+5. Motion, Measurement, and Fundamental Forces
+
+Under the hypergraph model, particles do not exist as solid objects moving through a void.
+
+Matter is a stable, localized "tangle" or recursive loop of geometry within the hypergraph.
+
+Motion is strictly the act of graph-rewriting. When an object moves, it is simply a dense algorithmic pattern executing state updates across adjacent nodes, identical to a Cellular Automata glider.
+
+Measurement does not require a conscious observer. It is a localized topological intersection—a geometric handshake where two patterns are forced to reconcile their relational states.
+
+Forces (Gravity, Electromagnetism, Strong/Weak Nuclear) are not mediated by discrete carrier particles. Following Kaluza-Klein geometry, they are simply n-dimensional topological attractor basins viewed at different rendering resolutions.
+
+6. Black Hole Cosmology and Infinite Recursion
+
+The boundary where a constrained $c$ and $h$ lattice meets the unconstrained analog substrate is known as an Event Horizon. Under this framework, our universe, primordial black holes, and stellar black holes are the exact same ontological objects.
+
+Primordial Black Holes are topological defects ("bad sectors") caused by the uneven Kibble-Zurek mismatch during the instantaneous universal boot-up.
+
+Stellar Black Holes occur when localized algorithmic density overwhelms the lattice, causing a dimensional overflow that crashes the rendering engine back to the unconstrained substrate.
+
+This creates an infinitely recursive, fractal multiverse. A stellar black hole is a localized crash that acts as a new statistical nucleation point within the substrate, spawning a child universe.
+Crucially, the event horizon acts as an absolute causal airgap. No complex geometric information can cross the phase boundary. The thermodynamic wipe ensures that every child universe nucleates from a sterile, unconstrained baseline, violently optimizing toward the exact same universal $c$ and $h$ limits as its parent.
+
+Conclusion
+
+By treating the universe as a decentralized signal processing engine, this framework eliminates the need for fundamental particles, arbitrary fine-tuning, and the paradoxes of a "Base Reality." The physical universe is simply the inescapable geometry of infinite unconstrained probability resolving itself into the most energy-efficient discrete computational state.
