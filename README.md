@@ -10,6 +10,7 @@ This repository is meant to hold more than finished essays. It is a map of a wor
 - Use [AGENTS.md](AGENTS.md) for the wiki schema and ingest/query rules.
 - Use [catalog/INDEX.md](catalog/INDEX.md) as the earlier catalog layer; it is gradually superseded by `wiki/`.
 - Use [templates/philosophy-entry.md](templates/philosophy-entry.md) when drafting a new philosophy, thesis, fragment, or research program outside the wiki.
+- Dated working-session syntheses live in `research/` (tension registers, connection candidates, assessments, test harness specs). Start with the latest.
 
 ## Current Source Texts
 

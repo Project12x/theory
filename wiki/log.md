@@ -2,7 +2,7 @@
 type: log
 status: active
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-09
 ---
 
 # Log
@@ -278,3 +278,15 @@ Eric clarified that two universes can never touch because the space between them
 ## 2026-04-23 concept refinement | metaverse as foamy gel image
 
 Eric described the metaverse as a bit like a foamy gel that expands infinitely, with that structure reflected at scale inside the universe but bounded by the cosmic horizon. Added this as a structural metaphor note to [[Metaverse]].
+
+## 2026-06-09 claim audit | morality as symbolic entity not natural law
+
+Eric clarified that ethics and morality are not part of the philosophy's natural law. They exist only as functions of that law at social scale and as symbolic entities; moral truth is scale-bounded (murder is functionally wrong in a society; mass death is insignificant at universal scale). The normative register in earlier material is personal Catholic-formation register, not system output. Added [[Morality Is A Symbolic Entity Not A Natural Law]]. This resolves the "missing ethics wing" critique structurally: the system has a meta-ethics, not a normative branch.
+
+## 2026-06-09 synthesis | session research notes and test harness program
+
+Full-wiki review session with AI assistance. Filed `research/2026-06-09 Synthesis And Test Harness Program.md` containing: a tension register (7 items, including the CHPE-discreteness vs analog-substrate conflict, the preferred-frame/SR problem, and the operation-vs-schema question), seven emergent connection candidates derived from existing core pages (universal phase diagram, grokking-as-nucleation, thermodynamic consciousness criterion, symbolic heat death, dormant entities as binding-energy reservoirs, selection without selector, the formalization loop), an external assessment summary with a philosophy-side neighbor map (Peirce, Whitehead, Simondon, Spencer-Brown, Varela, Luhmann, Metzinger, Searle, Dennett, Latour, Augustine, Smolin), and an eight-experiment agentic test harness program (H1-H8) with operationalizations, predictions, and kill criteria. All synthesis material is marked suspect until Eric adopts it.
+
+## 2026-06-09 maintenance | index updated for june 3 egregore layer
+
+Added [[Egregore]] (created 2026-06-03 without an index entry) and [[Morality Is A Symbolic Entity Not A Natural Law]] to the index. Noted hygiene item: `chpe_thesis_v_1.md` title block says v1.1 while its internal changelog runs to v1.3.

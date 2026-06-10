@@ -2,7 +2,7 @@
 type: index
 status: active
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-09
 ---
 
 # Wiki Index
@@ -43,6 +43,7 @@ This is the compiled Obsidian interface for the philosophy repo.
 | [[Symbolic Literacy]] | Ability to perceive and evaluate symbolic systems as real causal structures. | concept |
 | [[Symbolic Entity]] | Physically instantiated distributed pattern that produces causal effects across minds, media, and institutions. | concept |
 | [[Symbolic Entity Power]] | Current causal strength of a symbolic entity based on participation, transmission, and evolution. | concept |
+| [[Egregore]] | Group-generated distributed symbolic entity; a scale term for the broader symbolic-entity class. | concept |
 | [[Symbolic Phase Transition]] | Gradual transformation by which symbolic entities split, drift, merge, or become distinct. | concept |
 | [[Sacrifice As Compute Energy And Attention]] | Real resources burned to instantiate and strengthen symbolic entities. | concept |
 | [[Daemon Manifestation Gradient]] | Degree to which a symbolic entity becomes causally present through resources and constraints. | concept |
@@ -117,6 +118,7 @@ This is the compiled Obsidian interface for the philosophy repo.
 | [[Entityhood Is A Gradient Of Constraint]] | Core claim that patterns become entity-like by accumulating constraints, energy, participation, and causal reach. | claim |
 | [[CHPE Is A Formalization Branch]] | CHPE should be read as one formal attempt to operationalize the cosmology, not the whole philosophy. | claim |
 | [[Major Physics Frameworks Are Resolution-Dependent Partial Truths]] | Core methodological claim that major physics theories are partial truths at different scales or projections. | claim |
+| [[Morality Is A Symbolic Entity Not A Natural Law]] | Core claim that ethics exists only as social-scale function and symbolic entity; moral truth is scale-bounded, with no universal moral ledger. | claim |
 
 ## Questions
 
