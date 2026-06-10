@@ -290,3 +290,7 @@ Full-wiki review session with AI assistance. Filed `research/2026-06-09 Synthesi
 ## 2026-06-09 maintenance | index updated for june 3 egregore layer
 
 Added [[Egregore]] (created 2026-06-03 without an index entry) and [[Morality Is A Symbolic Entity Not A Natural Law]] to the index. Noted hygiene item: `chpe_thesis_v_1.md` title block says v1.1 while its internal changelog runs to v1.3.
+
+## 2026-06-09 synthesis | comparative standing and garage discovery addendum
+
+Extended the session research doc with Section 9 (comparative standing against Whitehead, Peirce, Simondon, Luhmann, Wolfram, Friston, and IIT; differentiators: thermodynamic accounting of symbolic entities plus falsification culture; precursor-prediction consistency win covering tzimtzum, emanation, and the Dao) and Section 10 (garage discovery program: H9 universality wager as the headline experiment subsuming H1/H4/H7 — cross-substrate kinetic universality classes as the empirical test of [[Collapse Constraint And Relation Are One Operation]]; H10 crystallization-derived w(z) against the DESI evolving-dark-energy anomaly; H11 SPARC contextual-gravity re-analysis; H12 LIGO echo search blocked on Eric ratifying the committed direction; T-ADC artifact mapping deliverable). Updated prioritization: H9 first. Pre-registration discipline added to next actions.

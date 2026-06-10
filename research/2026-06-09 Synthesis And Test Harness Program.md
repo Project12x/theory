@@ -234,11 +234,14 @@ Proposed harness architecture (common scaffold): one repo per experiment contain
 
 | Order | Harness | Why first |
 |---|---|---|
-| 1 | H1 Grokking/nucleation | Cheapest sharp kill criterion; bears on T6; publishable-adjacent either way |
+| 1 | H9 Universality wager (begin with its H1 grokking component) | Headline experiment: makes T6 empirically decidable; potential genuine discovery; desktop-scale |
 | 2 | H2 Audio resolution curve | Home domain; quantifies the system's most original invariant; very cheap |
-| 3 | H5 CHPE M0 kernel | Most consequential; spec and kill criteria already written; ends CHPE limbo |
-| 4 | H3 Entity power index | Operationalizes the most original wing; data-heavy but novel |
-| 5 | H4 / H7 / H8 / H6 | As capacity allows |
+| 3 | H10 Crystallization-derived w(z) | Targets a live anomaly (DESI evolving-DE hints); derivation step required before any fitting |
+| 4 | H5 CHPE M0 kernel | Spec and kill criteria already written; ends CHPE limbo; bears on T2 |
+| 5 | H11 SPARC contextual gravity | Public data; live contested anomaly the ontology naturally expects |
+| 6 | H3 / H12 / H8 / H6 | As capacity allows; H12 blocked until Eric ratifies the echo commitment (Section 10) |
+
+Note: H9 (Section 10) subsumes H1, H4, and H7 as components of a single cross-substrate wager. Prioritization updated in the same-day addendum.
 
 ---
 
@@ -249,13 +252,95 @@ Proposed harness architecture (common scaffold): one repo per experiment contain
 3. Draft the substrate-neutral definition of the constraint event (T6) as a wiki concept page; it is the system's largest promissory note.
 4. Stand up H1 and H2 as SPEC.md-driven repos; hand to coding agents.
 5. Reading priority: Simondon (individuation), Whitehead (process digest), Metzinger (*Being No One* or the short *Ego Tunnel*), Smolin (*Life of the Cosmos*), Spencer-Brown (*Laws of Form*, with Varela's extension).
+6. Pre-registration discipline for the garage program (Section 10): derive functional forms and commit predictions (H10 ansatz, H12 echo direction, H9 wager scope) before touching any dataset. Kills are filed as honestly as passes.
 
 ---
 
-## 8. Repo Actions Taken This Session (2026-06-09)
+## 9. Addendum (same session): Comparative Standing Against Neighboring Systems [ASSESS]
+
+Head-to-head against the closest systems, on what is shared, where this system is stronger, and where the neighbor is stronger.
+
+| System | Shares | This system stronger | Neighbor stronger |
+|---|---|---|---|
+| Whitehead (process) | Collapse event ≈ concrescence; cosmic-to-mind scope | Naturalistic (no load-bearing God); mechanistic (thermodynamics, nucleation); falsification-oriented; readable | Full axiomatic scheme — he paid the formalization price (T6) |
+| Peirce | "Matter is effete mind, inveterate habits becoming physical laws" (1891) ≈ laws-as-stable-patterns; habit-taking ≈ [[Pattern Locking]] | Thermodynamic instantiation where Peirce's cosmology goes vague | Formal logic and semiotics at professional grade |
+| Simondon | Individuation from a metastable preindividual field; crystallization as master image | Empirical pointedness; his system never touches a dataset | Deeper on the process of individuation; the hylomorphism critique |
+| Luhmann | Institutions as self-reproducing communication ≈ [[Institutions Are Peer-To-Peer Symbolic Machines]] | Unifies what he deliberately brackets (mind, cosmos); adds the energy ledger | Decades of worked-out social theory |
+| Wolfram | Hypergraph; update-based time; knot-matter | Philosophically richer (consciousness, social ontology); analog-first is a position he cannot take | Actual mathematics and simulations |
+| Friston (free energy) | Markov blanket ≈ the first cut: statistical self/not-self boundary maintained at metabolic cost | Scope — FEP strains above the organism; the entity gradient scales | The math exists and is heavily developed; a resource to raid for C3/H6 |
+| IIT (Tononi) | Graded consciousness | Avoids the panpsychism edge by requiring the recursive cut, not intrinsic experience | Has a formal measure (Phi), however intractable |
+
+Two observations beyond the table:
+
+1. **The differentiator against every secular neighbor** is the combination of thermodynamic accounting applied to symbolic entities plus a falsification culture. None of Whitehead, Simondon, or Luhmann ever wrote a kill criterion. The deficit against all of them is one thing: no formal scheme and no scholarly interface.
+2. **The precursor-prediction consistency win.** Lurianic Kabbalah's tzimtzum (creation through divine contraction — constraint, not addition), Neoplatonic emanation, and the unnameable Dao are structurally partial captures of this system — and the system's own magical-lineage thesis *predicts* that earlier traditions should exist as lower-resolution captures of the real operation. The philosophy explains its own precursors without circularity, through [[Claims Changed Practices Succeeded]].
+
+---
+
+## 10. Addendum (same session): Garage Discovery Program — Ontological Unlocks [SYNTH/ASSESS]
+
+### How ontology ever produces discovery
+
+Three historical precedents: Einstein's operational re-analysis of simultaneity (philosophy that became math), Noether's reframe of symmetry (conceptual to computational), Bell's conversion of a metaphysical dispute into an inequality cheap enough for undergraduate labs. Three tiers of "solve": (a) compute something previously uncomputed — out of reach for this framework today; (b) reveal a regularity nobody looked for — in reach, garage-scale; (c) reframe a hard problem into a non-problem — already done ontologically, but it only counts when (a) or (b) cashes it. The modern garage = public datasets (LIGO, DESI, Pantheon+, SPARC, Fermi, Ngrams) + desktop GPU compute + audio bench.
+
+Honest limits, stated up front: the framework will not solve the technical-derivation problems (mass gap, strong CP, generations, muon g-2) in anything like its current state — the crosswalk page already says so. Precision walls: anything touching Lorentz invariance or the Born rule faces constraints at the 1e-18 level; aim novelty where physics is silent (kinetics of emergence, load-dependence, dark-sector phenomenology, training dynamics), not where it is hyper-confirmed. Stone-soup guard: data analyses that stand alone must not be credited to the framework after the fact — predictions are pre-registered with kill criteria; kills are filed as honestly as passes.
+
+### H9 — The Universality Wager (headline experiment; subsumes H1, H4, H7)
+
+- **Tests:** [[Collapse Constraint And Relation Are One Operation]] — makes T6 (one operation vs one schema) empirically decidable.
+- **Hypothesis:** if collapse/constraint/nucleation is literally one operation on different substrates, then collapse-class transitions in unrelated domains fall into **shared kinetic universality classes**: transition curves fit Avrami/KJMA-type growth kinetics with clustering exponents, and seed-response curves share functional form.
+- **Operationalization:** extract Avrami exponents, characteristic-time scalings, and rescaled master curves from: (a) grokking transitions in small transformers (H1 runs), (b) opinion-cascade simulations (H7 runs), (c) real coinage-adoption curves (H4 corpus data), (d) published physical crystallization datasets. Master-curve collapse test across domains.
+- **Framework prediction vs null:** curve collapse across at least three substrates with overlapping exponent ranges. Null: each domain has idiosyncratic kinetics; no collapse beyond what generic sigmoids provide.
+- **Kill criterion:** if a plain logistic fits every domain as well as the Avrami form, or exponents fail to cluster across at least the physical domain plus one symbolic domain, the wager fails and [[Collapse Constraint And Relation Are One Operation]] demotes from one-operation to one-schema. Either outcome is filed.
+- **Build:** the component harnesses plus an analysis layer; desktop-scale. Cost: medium (umbrella). Agent-buildable: fully.
+- **Significance:** a confirmed cross-substrate kinetic regularity that standard science has no reason to expect would be a genuine, novel, publishable empirical discovery — and the single strongest possible vindication of the system's trunk claim.
+
+### H10 — Crystallization-Derived Expansion Law vs DESI
+
+- **Tests:** [[Cosmic Expansion Is Self-Actualization Not Motion Into Space]], [[Dark Energy And Dark Matter Are Frontier Actualization Effects]], [[No Truly Stable State Exists While The Horizon Expands]].
+- **Hypothesis:** if expansion is literally a crystallization/actualization front, expansion history follows growth-law kinetics (KJMA-class, nucleation-and-growth, quench dynamics), yielding a specific w(z) or H(z) form distinct from the standard CPL parameterization. Nobody fits crystal-growth kinetics to cosmic expansion because no standard ontology licenses it.
+- **Live anomaly:** DESI DR1/DR2 results prefer evolving dark energy (w drifting) at roughly 2-4 sigma in combined fits — contested, but exactly the shape of anomaly "non-linear frontier actualization" qualitatively welcomes and LCDM does not.
+- **Operationalization:** derivation step FIRST — map nucleation-and-growth variables onto FRW quantities, derive candidate a(t)/w(z) forms from the framework's own master metaphor; pre-register form and priors; then fit public Pantheon+ SNe and DESI BAO likelihoods; model comparison vs LCDM and CPL at equal parameter count.
+- **Kill criterion:** the derived form fits worse than CPL at equal parameters, or no growth-law form is derivable without ad-hoc choices (also reportable as a result).
+- **Build:** laptop; public likelihood chains. Cost: medium — the derivation is the hard part and the point.
+
+### H11 — Contextual Gravity In Public Rotation-Curve Data
+
+- **Tests:** the contextuality of relation in [[Dark Energy And Dark Matter Are Frontier Actualization Effects]] (dark matter as higher-dimensional relation, not intrinsic particle halos).
+- **Hypothesis:** galaxy internal dynamics show environment dependence — external-field-effect-like signatures — beyond intrinsic-halo expectations. Relations are contextual; intrinsic halos are not. Existing contested EFE claims (Chae et al., SPARC) are exactly the shape of anomaly the ontology expects.
+- **Operationalization:** independent re-analysis of the public SPARC database with a pre-registered, framework-motivated environment estimator (external field strength from public group catalogs); replicate or refute existing EFE claims under systematics controls.
+- **Kill criterion:** EFE-like signal vanishes under estimator-robustness and systematics controls.
+- **Build:** public SPARC + group catalogs; laptop. Cost: small-medium.
+
+### H12 — LIGO Echo Commitment (blocked on a decision)
+
+- **Tests:** [[Only The Event Horizon Exists In Our Universe]], [[Black Holes Are Over-Constrained Potential States]], [[Analog Unquantized Potential Prevents Universes From Touching]].
+- **Decision required [ERIC]:** the framework must commit a direction BEFORE data. AI reading of the claims: infinite substrate separation at the boundary implies strictly **no** post-ringdown echoes — absorption cleaner than modified-GR alternatives predict. Alternative reading via the lattice-rupture facet: boundary structure, hence echoes. Pick one; the pick is the prediction.
+- **Operationalization:** open LIGO/Virgo strain data; existing open-source echo-search pipelines; pre-registered statistic. Echo searches are an established amateur-accessible analysis with genuinely unsettled literature.
+- **Kill criterion:** depends on the ratified direction; if "no echoes" is committed, robust echo detection kills the facet-3 (boundary-with-unconstrained-substrate) reading as stated.
+- **Build:** public data + pipelines; desktop feasible. Cost: medium.
+
+### T-ADC — The ADC Artifact Mapping Table (theory deliverable, feeds future harnesses)
+
+Systematic mapping of every characterized ADC pathology — aliasing, quantization noise spectra, dither, slew-rate intermodulation under load — to its physics analog, with status: known physics / already constrained / unmeasured. The unmeasured rows are candidate observables. Distinctive angle: slew-limiting predicts distortion appearing under **update load** (interaction density, curvature) rather than at a fixed length scale — a different signature from the lattice-pixelation that standard Lorentz-violation searches constrain. This deliverable is unique to this project: it requires years inside ADC behavior, which is the author's actual domain.
+
+### Where the probable discoveries are
+
+Most probable genuine discoveries: complex-systems territory (H9 — ML training, cultural dynamics, and physical nucleation sharing kinetic form), because that is where the framework's distinctive structure meets cheap data. Most consequential long shot: H10, because it targets a live cosmological anomaly with a derivation chain starting from the system's own master metaphor. Both pre-registerable, both with kill criteria, both runnable on owned hardware.
+
+---
+
+## 11. Repo Actions Taken This Session (2026-06-09)
 
 - Created this document (`research/`).
 - Added wiki claim [[Morality Is A Symbolic Entity Not A Natural Law]] (`core`, Eric direct statement).
 - Updated `wiki/index.md`: added [[Egregore]] (June 3 omission) and the new morality claim; bumped updated date.
 - Appended `wiki/log.md` entries: morality claim audit; session synthesis; index maintenance.
 - Added research-notes pointer to `README.md`.
+
+Same-day addendum:
+
+- Added Section 9 (comparative standing vs Whitehead, Peirce, Simondon, Luhmann, Wolfram, Friston, IIT; differentiators and the precursor-prediction consistency win).
+- Added Section 10 (garage discovery program: H9 universality wager as headline, H10 crystallization-derived w(z) vs DESI, H11 SPARC contextual gravity, H12 LIGO echo commitment pending Eric's ratified direction, T-ADC artifact mapping deliverable).
+- Updated harness prioritization (H9 first) and next actions (pre-registration discipline).
+- Open decision for Eric: ratify the H12 echo direction (AI reading: strictly no echoes).
