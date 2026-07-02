@@ -10,7 +10,7 @@ domain:
   - natural philosophy
 claim_confidence: mixed
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-01
 ---
 
 # Open Questions And Term Refinement Register
@@ -37,6 +37,8 @@ Eric also clarified a three-way split that should govern future work:
 3. CHPE thesis: an AI-assisted mathematical/rewrite-system experiment, useful as a probe but not authoritative over the ontology.
 
 That split changes the refinement task. The core natural philosophy does not need to inherit every burden of CHPE. It does need clean definitions, clear registers, and careful contact with established physics.
+
+Eric clarified further on 2026-07-01 (see `research/2026-07-01 Natural Philosophy Clarifications.md`): the universe settles into a low-energy state by crystallizing spacetime (like ice); the update is local, not globally synchronized; and a black hole's mass need not be interior as ordinarily pictured. Those clarifications sharpen several entries below and reframe the entropy and `c` questions. Two decisions are still pending Eric — which "maximum entropy / second law" lines are AI gloss to retire, and how to rename the "`h` = Planck length" primitive so it is not confused with the Planck constant.
 
 ## Natural Philosophy Register
 
@@ -103,6 +105,8 @@ Refinement needed:
 - identify what corresponds to seed, metastability, phase boundary, growth, lattice, defect, and stability
 - distinguish cosmological crystallization from symbolic or institutional crystallization
 - clarify when crystallization language becomes too material or too spatial
+
+Refined 2026-07-01 — onset vs selection: the low-energy crystallization claim answers *why this structure* (the lattice is the stable low-energy attractor; it fixes Planck length and `c`), not *why collapse at all* (onset). Onset cannot be driven by an energy gradient, because pure potential has no usable energy, so there is no void-to-lattice gradient to roll down; onset rests on the non-persistence of unconstraint (stability is constraint, so unconstraint cannot persist). The water-freezing image is *pulled* by a pre-existing phase diagram; collapse is *pushed* by non-persistence and merely lands at low energy. Keep the two scoped separately; do not let the energy story explain onset.
 
 Related pages:
 
@@ -173,6 +177,8 @@ Refinement needed:
 - clarify whether black holes increase entropy by hiding information, re-opening possibility, or marking a boundary
 - prevent "entropy" from carrying incompatible meanings across levels
 
+Refined 2026-07-01 — Eric owns the thermodynamic/low-energy framing, so the fix is not to strip thermodynamics but to separate ledgers: possibility-space entropy *falls* as collapse narrows possibility, while rendered thermodynamic entropy *rises*. The core substrate claim is "maximum possibility / infinite analog noise" (original CSP phrasing); calling that "maximum entropy" in the *thermodynamic* sense is the gloss that collides with the past hypothesis (the early universe was extraordinarily low thermodynamic entropy). Pending decision: which specific "maximum entropy / second law" lines in [[The Second Law Is The One-Way Character Of Collapse]] and the CSP text Eric disowns as AI gloss before any are cut.
+
 Related pages:
 
 - [[The Second Law Is The One-Way Character Of Collapse]]
@@ -242,6 +248,8 @@ Refinement needed:
 - define why the Planck length enters the claim
 - state whether variation in `c` is rejected, open, or only an older draft residue
 
+Refined 2026-07-01 — the update is local (Eric), so there is no global synchronized "now" and the framework is compatible with the relativity of simultaneity (it explains it: each observer's now-slice is bookkeeping over local updates). This removes the crude preferred-frame conflict but not the real one: a local rule on a fixed lattice still has a *detectable* preferred frame (the lattice's own rest frame). The open bar is that the lattice frame be undetectable — reciprocal (symmetric) time dilation, i.e. emergent Lorentz invariance (T2 in mature form). The source text §XVII.f ("moving relative to the collapse process") is the wrong global-frame phrasing and should be revised. Candidate mechanism: confluence / causal invariance (CHPE O6/P7); concrete test: H5 (M0 kernel), speed-invariance under graph-automorphism boosts. Equipped neighbor to read: analog gravity / superfluid vacuum (Volovik; Barcelo-Liberati-Visser), which carries the emergent-Lorentz-invariance fine-tuning objection at the ~1e-18 bounds.
+
 Related pages:
 
 - [[C Is Relational Update Rate]]
@@ -258,6 +266,8 @@ Refinement needed:
 - distinguish quantization floor from Planck length, sampling rate, uncertainty, and measurement limits
 - clarify whether discreteness is emergent from finite update or intrinsic to rendered relation
 - avoid overstating physics before formal work exists
+
+Refined 2026-07-01 — Eric clarified he means the *minimum spatial step* `c` takes (a length), calling it `h`. The physical picture (minimum length, `c` = step per tick) is clean, but the naming needs fixing before anything else: `h`/`ħ` is the Planck *constant* (action, joule-seconds); the Planck *length* is `ℓ_P` ≈ 1.6e-35 m — different quantity, different units — and `ℓ_P = √(ħG/c³)` is *defined from* the constant, so it cannot be the fundamental primitive. Recommendation: name an own primitive minimum length `λ` and time `τ` with `c = λ/τ`, treat `ℓ_P = √(ħG/c³)` as emergent, and in the ADC metaphor keep the spatial-step axis (`λ`) distinct from the action-quantum axis (`ħ`, where amplitude/action quantization and uncertainty live). This also resolves the CSP-vs-§XVII.g inconsistency: the spatial step and `c` are one linked grain, the action quantum is the separate axis. Pending Eric's naming decision before the `c`/quantization pages are edited.
 
 Related pages:
 
@@ -292,6 +302,8 @@ Refinement needed:
 - clarify what exists "on the other side" without treating it as in-universe space
 - define universe membership by relation without making the boundary merely observational
 - preserve the difference between "only the horizon exists in our universe" and standard black-hole language
+
+Refined 2026-07-01 — the gravitating-interior worry (a black hole's mass is in gravitational relation with us, so by the relational membership criterion it is in-universe) is resolved: the mass is not interior stuff but a property of the exterior geometry / the horizon (membrane paradigm, holography), and the horizon is in-universe. So "only the event horizon exists in our universe" commits to a holographic/membrane reading and should say so. One collision to resolve: "reabsorption into potential" reads as information loss, against the post-2019 islands / Page-curve unitary recovery. Candidate fix: complementarity (Susskind) — the interior is holographically encoded on the horizon from our side (information preserved) and a full collapse region from its own side, both valid, never simultaneously accessible. Adopting complementarity sharpens the horizon-first claim; the price is retiring or reframing "reabsorption."
 
 Related pages:
 
@@ -328,6 +340,14 @@ Related pages:
 - Is `h` a core claim, a signal-processing analogy, or a formal target?
 - What must the natural philosophy preserve from established physics, and where is it allowed to reinterpret?
 - Which natural-philosophy claims should never be promoted to physics claims without formal derivation?
+
+Sharpened 2026-07-01:
+
+- Onset vs selection: state, non-temporally and non-dispositionally, *why unconstraint is non-persistent* (the onset question), keeping it separate from the low-energy attractor account (the selection question). What is the cleanest statement of "stability is constraint, so unconstraint cannot persist" that adds no smuggled property to the void?
+- Emergent Lorentz invariance: can a *local* update rule make its own lattice rest-frame undetectable — produce reciprocal (symmetric) time dilation — rather than leaving a preferred frame? This is the single hardest and most testable natural-philosophy problem (T2), and the analog-gravity literature shows it generically requires fine-tuning to survive the ~1e-18 bounds. Test seed: H5 (M0 kernel) speed-invariance under graph-automorphism boosts.
+- Black-hole information: adopt holographic complementarity (interior encoded on the horizon from our side; full region from its own side) and retire "reabsorption," or keep reabsorption and accept the collision with the Page-curve result — which?
+- `h` naming: settle the minimum-length primitive (`λ`, with `c = λ/τ`) as distinct from both the Planck constant `ħ` and the derived Planck length `ℓ_P`; assign the action-quantum axis (`ħ`) its own place in the ADC picture.
+- Reading debt that would equip these: Volovik (analog gravity) for the `c` / emergent-Lorentz claim; the islands / Page-curve literature for the black-hole information claim.
 
 ## General Philosophy Register
 

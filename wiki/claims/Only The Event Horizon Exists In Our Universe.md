@@ -5,7 +5,7 @@ domain:
   - collapse cosmology
 claim_confidence: core
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-07-01
 ---
 
 # Only The Event Horizon Exists In Our Universe
@@ -23,6 +23,9 @@ The black hole itself is not an object contained inside our spacetime in the ord
 Something beyond a pure information boundary cannot be said to actually exist in our universe. The black-hole structure may exist in the larger multiverse/metaverse, but not as an in-universe object.
 
 This also means that if our own cosmic horizon is the inverse orientation of a black-hole frontier, what exists "there" is not a separate in-universe region we are moving into. It is the opposite-side structure of the same boundary.
+
+> [!note] Mass on the horizon; holographic complementarity (2026-07-01)
+> Eric clarified the black hole's mass "does not have to be interior as we think of it." This resolves the gravitating-interior worry: in GR the mass is a property of the exterior geometry / the horizon (membrane paradigm, holography), not stuff at a center, so the gravitational relation is with the horizon — which is in-universe. So this claim commits to a holographic/membrane reading and should say so. Recommended sharpening: adopt complementarity (Susskind) — the interior is holographically encoded on the horizon from our side (information preserved) and a full collapse region from its own side; both valid, never simultaneously accessible. This preserves the horizon-first claim and requires retiring or reframing "reabsorption into potential" (see [[Black Holes Are Over-Constrained Potential States]]), which reads as information loss against the Page-curve result. See `research/2026-07-01 Natural Philosophy Clarifications.md`.
 
 ## Implications
 

@@ -5,7 +5,7 @@ domain:
   - collapse cosmology
 claim_confidence: core
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-07-01
 ---
 
 # C Is The Potential-To-Energy Update Rate
@@ -16,6 +16,9 @@ updated: 2026-04-23
 
 > [!note] Confirmed core claim
 > Eric clarified on 2026-04-23 that this is absolutely his belief, not AI residue. He refined it: the speed of light is the rate at which pure potential is turned into actual information across the Planck length. He corrected an intermediate "energy" wording; energy may be true downstream, but information is primary.
+
+> [!note] Update is local (2026-07-01)
+> Eric clarified the update is local — there is no global synchronized "now." This makes the claim compatible with the relativity of simultaneity (it explains it, rather than conflicting). The open bar is now narrower and testable: a local rule on a fixed lattice still has a detectable preferred frame (the lattice rest frame), so the claim owes *emergent Lorentz invariance* — reciprocal, symmetric time dilation. The source text §XVII.f ("moving relative to the collapse process") is the wrong global-frame phrasing and should be revised. See `research/2026-07-01 Natural Philosophy Clarifications.md` and the `c` entry in [[Open Questions And Term Refinement Register]]; candidate mechanism is confluence (CHPE O6/P7), test is H5.
 
 ## Reasoning
 

@@ -5,7 +5,7 @@ domain:
   - collapse cosmology
 claim_confidence: core
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-07-01
 ---
 
 # Black Holes Are Over-Constrained Potential States
@@ -39,6 +39,9 @@ The black hole is where the crystallized lattice is constrained beyond what ordi
 ### 2. Compression Back Into Potential
 
 Actual information becomes so compressed that it stops functioning as ordinary differentiated information and becomes functionally similar to pure potential.
+
+> [!note] Open tension: reabsorption vs unitary recovery (2026-07-01)
+> Facet 2 as stated ("reabsorption into potential") reads as information loss, which collides with the post-2019 islands / Page-curve result that information is recovered unitarily in the radiation. Candidate resolution under discussion: holographic complementarity — the interior is encoded on the horizon from our side (information preserved) and a full collapse region from its own side. Adopting it would require reframing facet 2 as *inaccessibility of ordinary structured information from our side* rather than literal return-to-potential. Flagged in [[Open Questions And Term Refinement Register]] and `research/2026-07-01 Natural Philosophy Clarifications.md`; not yet resolved.
 
 ### 3. Boundary With Unconstrained Substrate
 

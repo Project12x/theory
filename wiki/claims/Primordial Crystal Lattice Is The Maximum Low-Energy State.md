@@ -5,7 +5,7 @@ domain:
   - collapse cosmology
 claim_confidence: core
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-07-01
 ---
 
 # Primordial Crystal Lattice Is The Maximum Low-Energy State
@@ -31,6 +31,9 @@ At the same time, the lattice is not eternally superstable. The universe expands
 - The edge of the universe is where pure potential is crystallized into the lattice.
 - Maximum stability and extreme binding are compatible.
 - Maximum low-energy stability does not imply perfect eternal equilibrium.
+
+> [!note] Onset vs selection (2026-07-01)
+> The low-energy / crystallization claim answers *why this structure* — the lattice is the stable low-energy attractor among actualized configurations, which is why Planck length and `c` come out fixed. It does not answer *why collapse at all* (onset), because pure potential has no usable energy, so there is no void-to-lattice energy gradient to roll down. Onset rests on the non-persistence of unconstraint (stability is constraint). The water-freezing image is *pulled* by a pre-existing phase diagram; collapse is *pushed* by non-persistence and merely lands at low energy. Keep the two scoped separately. See `research/2026-07-01 Natural Philosophy Clarifications.md`.
 
 ## Evidence Or Support
 
