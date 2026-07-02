@@ -2,7 +2,7 @@
 type: index
 status: active
 created: 2026-04-23
-updated: 2026-06-09
+updated: 2026-06-24
 ---
 
 # Wiki Index
@@ -131,6 +131,7 @@ This is the compiled Obsidian interface for the philosophy repo.
 | [[Closest Neighbors To The Relational-Geometry Thesis]] | Comparison note sorting nearby thinkers and frameworks into very close, partial, and misleadingly similar. | question |
 | [[AI-Injected Claim Review Queue]] | Claims or phrasings that may have been introduced or overstated by AI organization and need Eric confirmation. | question |
 | [[How Should The Repo Eventually Split]] | Future separation of philosophy, AI/civilization, and physics formalization branches. | question |
+| [[Open Questions And Term Refinement Register]] | Durable register of open questions and terms needing refinement across natural philosophy and general philosophy. | question |
 
 ## Examples
 
