@@ -2,7 +2,7 @@
 type: index
 status: active
 created: 2026-04-23
-updated: 2026-06-24
+updated: 2026-07-01
 ---
 
 # Wiki Index
@@ -119,6 +119,8 @@ This is the compiled Obsidian interface for the philosophy repo.
 | [[CHPE Is A Formalization Branch]] | CHPE should be read as one formal attempt to operationalize the cosmology, not the whole philosophy. | claim |
 | [[Major Physics Frameworks Are Resolution-Dependent Partial Truths]] | Core methodological claim that major physics theories are partial truths at different scales or projections. | claim |
 | [[Morality Is A Symbolic Entity Not A Natural Law]] | Core claim that ethics exists only as social-scale function and symbolic entity; moral truth is scale-bounded, with no universal moral ledger. | claim |
+| [[The First Cut Begins At Life Not Matter]] | Core claim that the self/not-self cut grounding consciousness begins with life (boundary plus communication), not matter; human consciousness is the same operation elaborated through language. Not panpsychism. | claim |
+| [[Truth Of A Claim Is Its Claimed Effect]] | Core claim that a claim's truth tracks only its claimed effect, not the operation's other effects; makes the real/fake criterion two-place and truth physical. | claim |
 
 ## Questions
 

@@ -4,7 +4,7 @@ status: developed
 domain:
   - consciousness
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-07-01
 ---
 
 # Instinct To Consciousness Gradient
@@ -17,7 +17,7 @@ The difference between instinctive life and consciousness is a gradient of how d
 
 Nature and instinct can produce behavior without reflective symbolic manipulation. Consciousness begins to separate from instinct when intuition and internal symbolic constraint become involved. The more a system can constrain, symbolize, recombine, and deliberately manipulate its world-model, the more conscious it is.
 
-This is not a hard binary. It is a gradient.
+This is not a hard binary. It is a gradient. Its floor is life itself — a maintained self/not-self boundary plus communication ([[The First Cut Begins At Life Not Matter]]) — not inert matter and not mere self-replication. Instinctive life sits above that floor; symbolic self-consciousness sits near the top, reached through the linguistic collapse of self from world.
 
 ## Appears In
 
@@ -29,6 +29,7 @@ This is not a hard binary. It is a gradient.
 
 - [[Meta-Symbolic Constraint]]
 - [[Consciousness As The First Cut]]
+- [[The First Cut Begins At Life Not Matter]]
 - [[Pattern Locking]]
 
 ## Notes

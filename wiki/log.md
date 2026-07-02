@@ -2,7 +2,7 @@
 type: log
 status: active
 created: 2026-04-23
-updated: 2026-06-09
+updated: 2026-07-01
 ---
 
 # Log
@@ -298,3 +298,15 @@ Extended the session research doc with Section 9 (comparative standing against W
 ## 2026-06-24 clarification | natural philosophy register and term refinement
 
 Eric clarified that the physics-facing ontology is best understood as natural philosophy in the classical sense, not as a technical theory of physics. Added [[Open Questions And Term Refinement Register]] to track terms and open questions needing sharper definition across the natural-philosophy sphere and the general philosophy sphere. Preserved the three-way split Eric affirmed: authored core physics ontology, authored signal-processing framing, and CHPE as AI-assisted formalization experiment.
+
+## 2026-07-01 claim audit | first cut begins at life not matter
+
+Eric clarified the floor of the first-cut/consciousness gradient. Living cells have a sense of self and communicate; this is what separates life from self-replicating machinery and inert matter, and it is the minimal self/not-self cut. Human consciousness is the same operation at a higher level: the self separated from the world through symbolic and especially linguistic collapse, both gradual and sudden. Explicitly not panpsychism — the floor is life, not matter. Pirahã and feral humans given as gradient markers. Added [[The First Cut Begins At Life Not Matter]]; updated [[Consciousness As The First Cut]], [[Consciousness Is A Gradient Of Symbolic Constraint]], and [[Instinct To Consciousness Gradient]] with the life floor, the self-as-standing-term (not inner picture) framing, and the nucleation-like gradual/sudden ascent.
+
+## 2026-07-01 claim audit | truth of a claim is its claimed effect
+
+Eric clarified that a claim's truth tracks only its claimed effect, not the other effects an operation produces (the rain dance produces cohesion and energy expenditure but is fake because it does not produce rain). Truth is a two-place relation between a claim and its designated physical effect, and physical rather than logical. Added [[Truth Of A Claim Is Its Claimed Effect]]. This makes the real/fake magic falsifiability criterion explicitly two-place (an operation is real relative to one claim and fake relative to another), reconciles it with the Scale-Does-Not-Validate-Truth argument (VIII.a), and separates truth (claimed effect) from value (other effects). Recorded Eric's observation that this position "butts up heavily against teleosemantics" (Millikan, Dretske); the candidate account of how the claimed effect is fixed — the condition a practice is maintained under — is a selection-without-selector theory of content native to [[Claims Changed Practices Succeeded]], flagged as a neighbor and convergence to explore rather than adopted doctrine.
+
+## 2026-07-01 maintenance | index and log
+
+Added [[The First Cut Begins At Life Not Matter]] and [[Truth Of A Claim Is Its Claimed Effect]] to the index claims table; bumped index and log updated dates to 2026-07-01.
